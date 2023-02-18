@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">an enthusiastic software engineer, vfx editor</h3>
+<h3 align="center">an enthusiastic software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit443&label=Profile%20views&color=0e75b6&style=flat" alt="ankit443" /> </p>
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/Ankit11#7423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Ankit11#7423" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/ddbvVkZeSx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ddbvVkZeSx" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
