@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">an enthusiastic software engineer, vfx editor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit443&label=Profile%20views&color=0e75b6&style=flat" alt="ankit443" /> </p>
-
 - 👨‍💻 All of my projects are available at [github.com/ankit443](github.com/ankit443)
 
 - 📫 How to reach me **deb.ankit.work@gmail.com**
@@ -22,6 +20,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ankit443&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit443&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit443&label=Profile%20views&color=0e75b6&style=flat" alt="ankit443" /> </p>
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=ankit443&icon=1&color=3)](https://visitcount.itsvg.in) -->
 
