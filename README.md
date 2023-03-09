@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/ankit443](github.com/ankit443)
 
-- 📫 How to reach me **deb.ankit.work@gmail.com**
+- 📫 How to reach me **deb.ankit.work@gmail.com** (my email)
 
 - ⚡ Fun fact **I love playing football**
 
