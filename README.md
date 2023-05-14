@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">an enthusiastic software engineer, curious reader and always looking forward to learn about new technologies</h3>
+<h1 align="left">Hi 👋, I'm Ankit</h1>
+<h4 align="left">an enthusiastic software engineer, curious reader and always looking forward to learn about new technologies</h4>
 
 - 👨‍💻 All of my projects are available at [github.com/ankit443](github.com/ankit443)
 
