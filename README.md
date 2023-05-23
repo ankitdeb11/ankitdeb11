@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Ankit</h1>
 <h4 align="left">an enthusiastic software engineer, curious reader and always looking forward to learn about new technologies</h4>
 
-- 👨‍💻 All of my projects are available at [github.com/ankit443](github.com/ankit443)
+- 👨‍💻 All of my projects are available at [github.com/ankit443](github.com/ankitdeb11)
 
 - 📫 How to reach me **deb.ankit.work@gmail.com** (my email)
 
