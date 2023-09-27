@@ -1,11 +1,10 @@
 <h1 align="left">Hi 👋, I'm Ankit</h1>
 <h4 align="left">an enthusiastic software engineer, curious reader and always looking forward to learn about new technologies</h4>
 
-- 👨‍💻 All of my projects are available at [github.com/ankit443](github.com/ankitdeb11)
-
-- 📫 How to reach me **deb.ankit.work@gmail.com** (my email)
-
 - ⚡ Fun fact **I love playing football**
+- All of my projects here will be uploaded in Github.
+- Email: deb.ankit.work@gmail.com
+- Thank you for visiting.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
