@@ -6,12 +6,6 @@
 - Thank you for visiting.
 - Fun fact: I love playing Football.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/4C7m3YHS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/4C7m3YHS" height="30" width="40" /></a>
-</p>
-
-
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitdeb11) 
