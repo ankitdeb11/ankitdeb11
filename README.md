@@ -1,10 +1,11 @@
-<h1 align="left">Hi 👋, I'm Ankit</h1>
-<h2 align="left">an enthusiastic software engineer, curious reader and always looking forward to learn about new technologies</h2>
+<h3 align="left">Welcome aboard!</h3>
 
-- All of my projects here will be uploaded in Github.
-- Email: deb.ankit.work@gmail.com
-- Thank you for visiting.
-- Fun fact: I love playing Football.
+
+##### - All of my projects here will be uploaded in Github.
+##### - Email: deb.ankit.work@gmail.com
+##### - Thank you for visiting.
+##### - Fun fact: I love playing Football. ####
+
 
 
 
