@@ -4,6 +4,7 @@
 - All of my projects here will be uploaded in Github.
 - Email: deb.ankit.work@gmail.com
 - Thank you for visiting.
+- Always open to learn more.
 - Fun fact: I love playing Football.
 
 
